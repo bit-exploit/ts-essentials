@@ -24,6 +24,7 @@ El objetivo principal de este repositorio es:
 
 - **Creacional**
   - [Singleton](https://refactoring.guru/es/design-patterns/singleton)
+  - [Factory Method](https://refactoring.guru/es/design-patterns/factory-method)
 
 ---
 

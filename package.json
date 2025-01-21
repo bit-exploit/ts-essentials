@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "scripts": {
     "start": "tsx ./src/main.ts",
-    "pattern:singleton": "tsx ./src/design_patterns/creational/singleton/main.ts"
+    "pattern:singleton": "tsx ./src/design_patterns/creational/singleton/main.ts",
+    "pattern:factory-method": "tsx ./src/design_patterns/creational/factory_method/main.ts"
   },
   "keywords": [],
   "author": "bit-exploit",
