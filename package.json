@@ -2,7 +2,8 @@
   "name": "strange-practices",
   "version": "0.0.1",
   "scripts": {
-    "start": "tsx ./src/main.ts"
+    "start": "tsx ./src/main.ts",
+    "pattern:singleton": "tsx ./src/design_patterns/creational/singleton/main.ts"
   },
   "keywords": [],
   "author": "bit-exploit",

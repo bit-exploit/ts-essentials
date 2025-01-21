@@ -6,14 +6,6 @@
 
 ---
 
-## 🛠️ Tecnologías
-
-- **Lenguaje:** TypeScript
-
-- **Herramientas:** Node.js, npm/pnpm
-
----
-
 ## ✨ Propósito del Proyecto
 
 El objetivo principal de este repositorio es:
@@ -23,6 +15,23 @@ El objetivo principal de este repositorio es:
 - Crear un portafolio que demuestre mis habilidades en TypeScript.
 
 - Tener una referencia personal para futuros proyectos.
+
+---
+
+## 📁 Estructura del Proyecto
+
+### Patrones de diseño
+
+- **Creacional**
+  - [Singleton](https://refactoring.guru/es/design-patterns/singleton)
+
+---
+
+## 🛠️ Tecnologías
+
+- **Lenguaje:** TypeScript
+
+- **Herramientas:** Node.js, npm/pnpm
 
 ---
 
