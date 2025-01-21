@@ -1,0 +1,13 @@
+{
+  "name": "strange-practices",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "tsx ./src/main.ts"
+  },
+  "keywords": [],
+  "author": "bit-exploit",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.19.2"
+  }
+}
