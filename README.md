@@ -27,6 +27,7 @@ El objetivo principal de este repositorio es:
   - [Factory Method](https://refactoring.guru/es/design-patterns/factory-method)
   - [Abstract Factory](https://refactoring.guru/es/design-patterns/abstract-factory)
   - [Prototype](https://refactoring.guru/es/design-patterns/prototype)
+  - [Builder](https://refactoring.guru/es/design-patterns/builder)
 
 ---
 

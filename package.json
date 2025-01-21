@@ -6,7 +6,8 @@
     "pattern:singleton": "tsx ./src/design_patterns/creational/singleton/main.ts",
     "pattern:factory-method": "tsx ./src/design_patterns/creational/factory_method/main.ts",
     "pattern:abstract-factory": "tsx ./src/design_patterns/creational/abstract_factory/main.ts",
-    "pattern:prototype": "tsx ./src/design_patterns/creational/prototype/main.ts"
+    "pattern:prototype": "tsx ./src/design_patterns/creational/prototype/main.ts",
+    "pattern:builder": "tsx ./src/design_patterns/creational/builder/main.ts"
   },
   "keywords": [],
   "author": "bit-exploit",
