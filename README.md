@@ -26,6 +26,7 @@ El objetivo principal de este repositorio es:
   - [Singleton](https://refactoring.guru/es/design-patterns/singleton)
   - [Factory Method](https://refactoring.guru/es/design-patterns/factory-method)
   - [Abstract Factory](https://refactoring.guru/es/design-patterns/abstract-factory)
+  - [Prototype](https://refactoring.guru/es/design-patterns/prototype)
 
 ---
 
