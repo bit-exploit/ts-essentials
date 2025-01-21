@@ -28,6 +28,7 @@ El objetivo principal de este repositorio es:
   - [Abstract Factory](https://refactoring.guru/es/design-patterns/abstract-factory)
   - [Prototype](https://refactoring.guru/es/design-patterns/prototype)
   - [Builder](https://refactoring.guru/es/design-patterns/builder)
+  - [Object Pool](https://www.geeksforgeeks.org/object-pool-design-pattern/)
 
 ---
 
