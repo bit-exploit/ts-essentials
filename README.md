@@ -29,6 +29,8 @@ El objetivo principal de este repositorio es:
   - [Prototype](https://refactoring.guru/es/design-patterns/prototype)
   - [Builder](https://refactoring.guru/es/design-patterns/builder)
   - [Object Pool](https://www.geeksforgeeks.org/object-pool-design-pattern/)
+- **Estructural**
+  - [Adapter](https://refactoring.guru/es/design-patterns/adapter)
 
 ---
 
