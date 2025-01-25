@@ -9,7 +9,8 @@
     "pattern:prototype": "tsx ./src/design_patterns/creational/prototype/main.ts",
     "pattern:builder": "tsx ./src/design_patterns/creational/builder/main.ts",
     "pattern:object-pool": "tsx ./src/design_patterns/creational/object_pool/main.ts",
-    "pattern:adapter": "tsx ./src/design_patterns/structural/adapter/main.ts"
+    "pattern:adapter": "tsx ./src/design_patterns/structural/adapter/main.ts",
+    "pattern:facade": "tsx ./src/design_patterns/structural/facade/main.ts"
   },
   "keywords": [],
   "author": "bit-exploit",

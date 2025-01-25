@@ -31,6 +31,7 @@ El objetivo principal de este repositorio es:
   - [Object Pool](https://www.geeksforgeeks.org/object-pool-design-pattern/)
 - **Estructural**
   - [Adapter](https://refactoring.guru/es/design-patterns/adapter)
+  - [Facade](https://refactoring.guru/es/design-patterns/facade)
 
 ---
 
