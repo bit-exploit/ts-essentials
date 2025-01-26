@@ -33,6 +33,7 @@ El objetivo principal de este repositorio es:
   - [Adapter](https://refactoring.guru/es/design-patterns/adapter)
   - [Facade](https://refactoring.guru/es/design-patterns/facade)
   - [Proxy](https://refactoring.guru/es/design-patterns/proxy)
+  - [Bridge](https://refactoring.guru/es/design-patterns/bridge)
 
 ---
 
