@@ -34,6 +34,8 @@ El objetivo principal de este repositorio es:
   - [Facade](https://refactoring.guru/es/design-patterns/facade)
   - [Proxy](https://refactoring.guru/es/design-patterns/proxy)
   - [Bridge](https://refactoring.guru/es/design-patterns/bridge)
+- **Comportamental**
+  - [Observer](https://refactoring.guru/es/design-patterns/observer)
 
 ---
 
