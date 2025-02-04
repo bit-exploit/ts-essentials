@@ -36,6 +36,7 @@ El objetivo principal de este repositorio es:
   - [Bridge](https://refactoring.guru/es/design-patterns/bridge)
 - **Comportamental**
   - [Observer](https://refactoring.guru/es/design-patterns/observer)
+  - [Strategy](https://refactoring.guru/es/design-patterns/strategy)
 
 ---
 

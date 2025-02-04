@@ -13,7 +13,8 @@
     "pattern:facade": "tsx ./src/design_patterns/structural/facade/main.ts",
     "pattern:proxy": "tsx ./src/design_patterns/structural/proxy/main.ts",
     "pattern:bridge": "tsx ./src/design_patterns/structural/bridge/main.ts",
-    "pattern:observer": "tsx ./src/design_patterns/behavioral/observer/main.ts"
+    "pattern:observer": "tsx ./src/design_patterns/behavioral/observer/main.ts",
+    "pattern:strategy": "tsx ./src/design_patterns/behavioral/strategy/main.ts"
   },
   "keywords": [],
   "author": "bit-exploit",
