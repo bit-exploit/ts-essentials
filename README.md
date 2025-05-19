@@ -38,6 +38,7 @@ El objetivo principal de este repositorio es:
   - [Observer](https://refactoring.guru/es/design-patterns/observer)
   - [Strategy](https://refactoring.guru/es/design-patterns/strategy)
   - [Command](https://refactoring.guru/es/design-patterns/command)
+  - [Chain of Responsibility](https://refactoring.guru/es/design-patterns/chain-of-responsibility)
 
 ---
 

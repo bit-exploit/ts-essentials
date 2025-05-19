@@ -15,7 +15,8 @@
     "pattern:bridge": "tsx ./src/design_patterns/structural/bridge/main.ts",
     "pattern:observer": "tsx ./src/design_patterns/behavioral/observer/main.ts",
     "pattern:strategy": "tsx ./src/design_patterns/behavioral/strategy/main.ts",
-    "pattern:command": "tsx ./src/design_patterns/behavioral/command/main.ts"
+    "pattern:command": "tsx ./src/design_patterns/behavioral/command/main.ts",
+    "pattern:chain-of-responsibility": "tsx ./src/design_patterns/behavioral/chain_of_responsibility/main.ts"
   },
   "keywords": [],
   "author": "bit-exploit",
