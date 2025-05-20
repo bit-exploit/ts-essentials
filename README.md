@@ -40,6 +40,7 @@ El objetivo principal de este repositorio es:
   - [Command](https://refactoring.guru/es/design-patterns/command)
   - [Chain of Responsibility](https://refactoring.guru/es/design-patterns/chain-of-responsibility)
   - [Iterator](https://refactoring.guru/es/design-patterns/iterator)
+  - [Mediator](https://refactoring.guru/es/design-patterns/mediator)
 
 ---
 

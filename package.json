@@ -17,7 +17,8 @@
     "pattern:strategy": "tsx ./src/design_patterns/behavioral/strategy/main.ts",
     "pattern:command": "tsx ./src/design_patterns/behavioral/command/main.ts",
     "pattern:chain-of-responsibility": "tsx ./src/design_patterns/behavioral/chain_of_responsibility/main.ts",
-    "pattern:iterator": "tsx ./src/design_patterns/behavioral/iterator/main.ts"
+    "pattern:iterator": "tsx ./src/design_patterns/behavioral/iterator/main.ts",
+    "pattern:mediator": "tsx ./src/design_patterns/behavioral/mediator/main.ts"
   },
   "keywords": [],
   "author": "bit-exploit",
