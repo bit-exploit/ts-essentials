@@ -44,6 +44,7 @@ El objetivo principal de este repositorio es:
   - [Memento](https://refactoring.guru/es/design-patterns/memento)
   - [State](https://refactoring.guru/es/design-patterns/state)
   - [Template Method](https://refactoring.guru/es/design-patterns/template-method)
+  - [Visitor](https://refactoring.guru/es/design-patterns/visitor)
 
 ---
 

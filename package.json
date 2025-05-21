@@ -1,6 +1,6 @@
 {
   "name": "strange-practices",
-  "version": "0.0.1",
+  "version": "0.0.9",
   "scripts": {
     "start": "tsx ./src/main.ts",
     "pattern:singleton": "tsx ./src/design_patterns/creational/singleton/main.ts",
@@ -21,7 +21,8 @@
     "pattern:mediator": "tsx ./src/design_patterns/behavioral/mediator/main.ts",
     "pattern:memento": "tsx ./src/design_patterns/behavioral/memento/main.ts",
     "pattern:state": "tsx ./src/design_patterns/behavioral/state/main.ts",
-    "pattern:template-method": "tsx ./src/design_patterns/behavioral/template_method/main.ts"
+    "pattern:template-method": "tsx ./src/design_patterns/behavioral/template_method/main.ts",
+    "pattern:visitor": "tsx ./src/design_patterns/behavioral/visitor/main.ts"
   },
   "keywords": [],
   "author": "bit-exploit",
