@@ -19,7 +19,8 @@
     "pattern:chain-of-responsibility": "tsx ./src/design_patterns/behavioral/chain_of_responsibility/main.ts",
     "pattern:iterator": "tsx ./src/design_patterns/behavioral/iterator/main.ts",
     "pattern:mediator": "tsx ./src/design_patterns/behavioral/mediator/main.ts",
-    "pattern:memento": "tsx ./src/design_patterns/behavioral/memento/main.ts"
+    "pattern:memento": "tsx ./src/design_patterns/behavioral/memento/main.ts",
+    "pattern:state": "tsx ./src/design_patterns/behavioral/state/main.ts"
   },
   "keywords": [],
   "author": "bit-exploit",

@@ -42,6 +42,7 @@ El objetivo principal de este repositorio es:
   - [Iterator](https://refactoring.guru/es/design-patterns/iterator)
   - [Mediator](https://refactoring.guru/es/design-patterns/mediator)
   - [Memento](https://refactoring.guru/es/design-patterns/memento)
+  - [State](https://refactoring.guru/es/design-patterns/state)
 
 ---
 
