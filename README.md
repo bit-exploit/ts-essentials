@@ -46,6 +46,11 @@ El objetivo principal de este repositorio es:
   - [Template Method](https://refactoring.guru/es/design-patterns/template-method)
   - [Visitor](https://refactoring.guru/es/design-patterns/visitor)
 
+### Algoritmos
+
+- **Simple**
+  - [Factorial Calculator](/src/algorithms/simples/factorial/README.md)
+
 ---
 
 ## 🛠️ Tecnologías

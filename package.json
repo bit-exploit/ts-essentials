@@ -22,12 +22,14 @@
     "pattern:memento": "tsx ./src/design_patterns/behavioral/memento/main.ts",
     "pattern:state": "tsx ./src/design_patterns/behavioral/state/main.ts",
     "pattern:template-method": "tsx ./src/design_patterns/behavioral/template_method/main.ts",
-    "pattern:visitor": "tsx ./src/design_patterns/behavioral/visitor/main.ts"
+    "pattern:visitor": "tsx ./src/design_patterns/behavioral/visitor/main.ts",
+    "algorithm:factorial": "tsx ./src/algorithms/simples/factorial/main.ts"
   },
   "keywords": [],
   "author": "bit-exploit",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^22.15.21",
     "tsx": "^4.19.2"
   }
 }
