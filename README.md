@@ -50,6 +50,7 @@ El objetivo principal de este repositorio es:
 
 - **Simple**
   - [Factorial Calculator](/src/algorithms/simples/factorial/README.md)
+  - [Palindrome](/src/algorithms/simples/palindrome/README.md)
 
 ---
 
